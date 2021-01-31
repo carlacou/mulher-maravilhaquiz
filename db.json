@@ -2,11 +2,11 @@
 {
   "bg": "https://i.pinimg.com/originals/b4/9f/2e/b49f2e5a263955fdb0484e3cda3fd47f.jpg",
   "title": "Mulher-Maravilha",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "description": "Teste os seus conhecimentos sobre a Mulher Maravilha",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://www.hypeness.com.br/1/2019/12/gal-gadot4.gif",
+      "title": "Qual é a espécie da Mulher Maravilha?",
       "description": "Essa é pra aquecer",
       "answer": 2,
       "alternatives": [
@@ -17,8 +17,8 @@
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
+      "image": "https://data.whicdn.com/images/251383815/original.gif",
+      "title": "Em qual hq teve a primeira aparição da Mulher Maravilha?",
       "description": "Faz tempo em haha",
       "answer": 0,
       "alternatives": [
