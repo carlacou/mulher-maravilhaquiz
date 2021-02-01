@@ -1,31 +1,107 @@
 
 {
   "bg": "https://i.pinimg.com/originals/b4/9f/2e/b49f2e5a263955fdb0484e3cda3fd47f.jpg",
-  "title": "Mulher-Maravilha",
-  "description": "Teste os seus conhecimentos sobre a Mulher Maravilha",
+  "title": "Teste os seus conhecimentos sobre a Mulher Maravilha",
+  "description": "Quiz Mulher Maravilha",
   "questions": [
     {
       "image": "https://www.hypeness.com.br/1/2019/12/gal-gadot4.gif",
       "title": "Qual é a espécie da Mulher Maravilha?",
       "description": "Essa é pra aquecer",
-      "answer": 2,
+      "answer": 1,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "amazona, alienigena,deusa",
+        "amazona, semi deusa e meta humana",
+        "semi deusa, humana",
+        "amazona, humana"
       ]
     },
     {
-      "image": "https://data.whicdn.com/images/251383815/original.gif",
+      "image": "https://universomovieforward.files.wordpress.com/2017/07/mulher-tumblr_or494ybj2m1vx8b9lo1_500.gif",
       "title": "Em qual hq teve a primeira aparição da Mulher Maravilha?",
+      "description": "Faz tempo hein haha",
+      "answer": 2,
+      "alternatives": [
+        "mulher maravilha centesa",
+        "liga da justiça origem",
+        "all star comics",
+        "a princesa das amazonas"
+      ]
+    },
+    {
+      "image": "https://independente.com.br/wp-content/uploads/2017/06/mulher-maravilha.gif",
+      "title": "Qual o verdadeiro nome dela?",
+      "description": "Essa é fácil hein haha",
+      "answer": 2,
+      "alternatives": [
+        "princesa dianne amazona",
+        "princesa diana de themyscira",
+        "diana prince",
+        "doutora.dianne"
+      ]
+    },
+    {
+      "image": "https://geeksinaction.com.br/wp-content/uploads/2017/06/Mulher-Maravilha-2.gif",
+      "title": "Quem e o pai da mulher maravilha?",
+      "description": "Essa é fácil hein haha",
+      "answer": 2,
+      "alternatives": [
+        "ela não tem pai, foi criada por magia negra",
+        "seu pai faleceu a anos",
+        "ela foi criada por zeus, ela não tem pai",
+        "o pai dela esta vivo e preso no esconderijo de darni"
+      ]
+    },
+    {
+      "image": "https://www.magazine-hd.com/apps/wp/wp-content/uploads/2017/06/gal-gadot.gif",
+      "title": "Qual dessas habilidades da mulher maravilha abaixo é a sua habilidade principal?",
+      "description": "Essa é fácil hein haha",
+      "answer": 3,
+      "alternatives": [
+        "super força",
+        "imortal",
+        "resistência a magia",
+        "resistência a qualquel luta"
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/originals/09/bb/3b/09bb3bc6dbd79e74a68d4af3f860e3ed.gif",
+      "title": "Qual a terra natal da mulher maravilha?",
+      "description": "Faz tempo em haha",
+      "answer": 2,
+      "alternatives": [
+        "ilha dos perdidos",
+        "amazona",
+        "thamyscia ilha paraiso",
+        "africa"
+      ]
+    },
+    {
+      "image": "https://68.media.tumblr.com/e190ee8a63b3ab3610afc556335b0b78/tumblr_onys7ut1xb1v5084lo1_500.gif",
+      "title": "A mulher maravilha foi inspirada em qual princesa disney?",
       "description": "Faz tempo em haha",
       "answer": 0,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+        "mulan", 
+        "branca de neve",
+        "cinderela",
+        "bela adormecida"
+      ]
+    },
+    {
+      "image": "https://static1.purebreak.com.br/articles/0/56/86/0/@/233848-corre-pra-ver-mulher-maravilha-nos-cin-amp_article_image-1.gif",
+      "title": "A mulher maravilha foi desenhada e criada por?",
+      "description": "Faz tempo em haha",
+      "answer": 3,
+      "alternatives": [
+        "odete beane",
+        "williams notte bei",
+        "jen calonita",
+        "harry g. peter"
       ]
     }
+    
+
   ],
   "external": [
     ""

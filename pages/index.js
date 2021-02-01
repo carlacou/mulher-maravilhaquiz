@@ -104,7 +104,7 @@ export default function Home() {
               infosDoEvento.preventDefault();
               router.push(`/Quiz?name=${name}`);
 
-              console.log('Fazendo uma submissão por meio do react');
+              // console.log('Fazendo uma submissão por meio do react');
 
               // router manda para a próxima página
             }}
